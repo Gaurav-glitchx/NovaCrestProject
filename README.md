@@ -6,22 +6,43 @@ NovaCrest Technologies is a premium technology and digital solutions company des
 
 ---
 
-## 🌟 Brand & Engineering Highlights
+## 🎨 Visual Design & Architectural Gallery
 
-- **Visual Direction:** Obsidian dark interface (`#090A0F`), deep slate surfaces (`#0E1117`, `#121722`), electric cyan accents (`#00F2FE`), cobalt blue accents (`#3B82F6`), high-contrast typography, fine technical grid patterns, and zero cliché stock illustrations.
-- **Architectural Standards:** Built with Next.js 16 App Router, TypeScript, Tailwind CSS, and Lucide React.
-- **Performance & Core Web Vitals:** Engineered with edge-ready static rendering (SSG/ISR), sub-second Largest Contentful Paint (LCP < 1.2s), 0 CLS, and strict tree-shaking.
-- **Technical SEO & AEO (Answer Engine Optimization):**
-  - Semantic HTML5 structure throughout (`<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<footer>`).
-  - Strict H1/H2/H3 semantic hierarchy.
-  - JSON-LD Structured Data: `Organization`, `WebSite`, `Service`, `BreadcrumbList`, `FAQPage`, and `Article` schemas.
-  - Direct answers to high-intent questions for citations in Google AI Overviews, ChatGPT Search, and Perplexity.
-  - Dynamic `sitemap.xml` and AI-crawler-ready `robots.txt` (welcoming `GPTBot`, `PerplexityBot`, `ClaudeBot`, and `Google-Extended`).
-- **Conversion-Rate Optimization (CRO):**
-  - Sticky glassmorphism header with a multi-column desktop mega menu and mobile navigation drawer.
-  - Interactive technical architecture hero visual with live system tabs (Architecture / Vitals / Stack).
-  - Contextual CTA system (`"Build My Website →"`, `"Build My App →"`, `"Grow My Search Traffic →"`, `"Discuss My Project →"`).
-  - Production-ready project inquiry form with bot honeypot protection and NDA assurance.
+Below is the collection of custom cinematic visual assets engineered for NovaCrest Technologies:
+
+### 1. Signature Hero & 3D Nucleus
+| Homepage Hero Landscape | Prism Core 3D Nucleus |
+|:---:|:---:|
+| ![Homepage Hero](public/images/hero-landscape.jpg) | ![Prism Core](public/images/hero-prism.jpg) |
+| *Cinematic abstract landscape representing ideas becoming technology.* | *Kinetic crystalline optical sculpture reacting to 3D pointer physics.* |
+
+### 2. Studio Culture, Collaboration & Transformation
+| Human Collaboration & Vision | Studio Engineering Atelier | Continuous Transformation Odyssey |
+|:---:|:---:|:---:|
+| ![Who We Are](public/images/who-we-are.jpg) | ![Atelier Craft](public/images/atelier-craft.jpg) | ![Process Journey](public/images/process-journey.jpg) |
+| *Human imagination and disciplined software engineering.* | *Senior architects writing clean production code.* | *Continuous trajectory from idea to worldwide scale.* |
+
+### 3. Engineering Disciplines & Capabilities
+| Web Platforms (Next.js 16) | Native Mobile Systems (Flutter / RN) |
+|:---:|:---:|
+| ![Web Development](public/images/service-web-dev.jpg) | ![Mobile App Development](public/images/service-mobile-dev.jpg) |
+| *Sub-1.2s Edge LCP commerce platforms.* | *60 FPS native haptics & 1-tap biometrics.* |
+
+| Bespoke Cloud Pipelines | UI/UX Design Token Systems |
+|:---:|:---:|
+| ![Software & Infrastructure](public/images/service-software-tech.jpg) | ![UI/UX Design Systems](public/images/service-ui-ux.jpg) |
+| *Automated document parsing & ERP sync.* | *Clickable Figma prototypes & token systems.* |
+
+| Technical SEO & AI Search (AEO) | Autonomous Commerce & Growth |
+|:---:|:---:|
+| ![Technical SEO & AEO](public/images/service-seo-growth.jpg) | ![High-Volume Commerce](public/images/service-automation.jpg) |
+| *Rich schema markup & AI search citations.* | *Headless Shopify Plus & multi-currency routing.* |
+
+### 4. Flagship Client Case Study
+| Production Deployed Flagship Exhibit |
+|:---:|
+| ![Flagship Case Study](public/images/flagship-case.jpg) |
+| *0.82s edge latency high-converting storefront architecture.* |
 
 ---
 
