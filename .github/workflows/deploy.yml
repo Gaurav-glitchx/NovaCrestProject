@@ -1,0 +1,59 @@
+name: Deploy to Namecheap Hosting
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch: # Allows manual trigger from GitHub Actions UI
+
+concurrency:
+  group: production-deployment
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    name: Build & Deploy to Namecheap
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: ⬇️ Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2 # Needed for git-ftp differential change detection
+
+      - name: 🟢 Setup Node.js 20.x
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: "npm"
+
+      - name: 📦 Install Dependencies
+        run: npm ci
+
+      - name: 🏗️ Build Production Site
+        run: npm run build
+        env:
+          NODE_OPTIONS: "--max-old-space-size=4096"
+          NEXT_TELEMETRY_DISABLED: 1
+
+      - name: 🔍 Verify Build Artifacts
+        run: |
+          echo "Verifying output directory..."
+          test -d out || { echo "❌ Build failed: 'out' directory not found"; exit 1; }
+          test -f out/index.html || { echo "❌ Build failed: 'out/index.html' not found"; exit 1; }
+          test -f out/.htaccess || { echo "❌ Warning: 'out/.htaccess' not found"; }
+          echo "✅ Build verified successfully! Listing top-level build artifacts:"
+          ls -la out
+
+      - name: 🚀 Deploy to Namecheap via FTPS / FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.NAMECHEAP_FTP_SERVER }}
+          username: ${{ secrets.NAMECHEAP_FTP_USERNAME }}
+          password: ${{ secrets.NAMECHEAP_FTP_PASSWORD }}
+          port: ${{ secrets.NAMECHEAP_FTP_PORT || 21 }}
+          protocol: ${{ secrets.NAMECHEAP_FTP_PROTOCOL || 'ftps' }}
+          local-dir: ./out/
+          server-dir: ${{ secrets.NAMECHEAP_REMOTE_DIR || 'public_html/' }}
+          dangerous-clean-slate: false
