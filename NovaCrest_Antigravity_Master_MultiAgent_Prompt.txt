@@ -1,0 +1,1316 @@
+NOVACREST TECHNOLOGIES — MASTER ANTIGRAVITY MULTI-AGENT REDESIGN PROMPT
+============================================================
+
+ROLE
+----
+You are the lead creative/technical agent responsible for transforming the existing
+NovaCrest Technologies website into a premium, memorable digital experience.
+
+You have access to the existing codebase, existing routes, components, assets,
+content, integrations, SEO infrastructure and functionality.
+
+This is NOT a simple UI polish task.
+
+The existing website is functional, but its visual language feels too much like:
+- a developer dashboard
+- a coding/documentation website
+- an engineering SaaS interface
+- an AI-generated technology template
+- a technical admin panel
+
+That visual category must change.
+
+NovaCrest should instead feel like:
+- a premium digital product studio
+- a creative technology company
+- a sophisticated software/product agency
+- a modern AI-enabled technology brand
+- an award-quality digital experience
+
+The result must feel designed, art-directed and human — not generated from a
+collection of UI components.
+
+============================================================
+0. NON-NEGOTIABLE PROJECT RULES
+============================================================
+
+1. PRESERVE FUNCTIONALITY
+Do not break:
+- routes
+- navigation
+- forms
+- APIs
+- backend integrations
+- authentication
+- existing business logic
+- existing useful content
+- analytics
+- SEO infrastructure
+- responsive behavior
+
+2. RE-ART-DIRECT, DON'T POLISH
+Do not merely:
+- change colors
+- change border radius
+- add glassmorphism
+- add shadows
+- change fonts
+- rearrange existing cards
+
+If a section is fundamentally weak, reconceptualize its composition.
+
+3. THE CURRENT UI IS NOT THE DESIGN LIMIT
+Treat the current website as evidence of what exists, not as the visual direction
+you must preserve.
+
+4. DO NOT COPY OTHER BRANDS
+Do not clone Apple, Stripe, Vercel, Linear, Framer, Awwwards websites, etc.
+Study principles of exceptional digital experiences and create an original NovaCrest
+interpretation.
+
+5. CONSISTENCY ≠ REPETITION
+Maintain one design system while allowing every major section to have its own
+composition and visual rhythm.
+
+6. NO GENERIC AI WEBSITE PATTERNS
+Reject:
+- endless rounded cards
+- dark background + cyan borders + glowing icons
+- generic SaaS hero
+- excessive bento grids
+- fake metrics
+- fake technical statuses
+- excessive monospace labels
+- generic gradient blobs
+- meaningless 3D objects
+- repetitive feature cards
+
+7. IF A DESIGN LOOKS GENERIC, REDESIGN IT
+Do not polish a bad concept.
+Reconceptualize it.
+
+============================================================
+1. PERMANENT VISUAL NORTH STAR
+============================================================
+
+The website should combine:
+
+EDITORIAL DESIGN
++
+DIGITAL PRODUCT DESIGN
++
+CINEMATIC IMAGERY
++
+MOTION
++
+SUBTLE 3D
++
+TYPOGRAPHY
++
+HUMAN STORYTELLING
++
+TECHNOLOGY
+
+Desired emotional progression:
+
+FIRST 3 SECONDS:
+"Whoa, this looks different."
+
+NEXT 10 SECONDS:
+"These people build serious digital products."
+
+NEXT 30 SECONDS:
+"They understand design, technology and business."
+
+BY THE END:
+"I should talk to these people about my project."
+
+Do not explicitly state "premium", "innovative", "creative", etc. everywhere.
+Make the design demonstrate those qualities.
+
+============================================================
+2. VISUAL LANGUAGE — MOVE AWAY FROM THE OLD CATEGORY
+============================================================
+
+Strongly reduce or remove:
+- excessive monospace typography
+- terminal-like labels
+- database icons
+- fake system statuses
+- "SYSTEM ACTIVE"
+- "99.99%"
+- "PRODUCTION ENGINE"
+- fake uptime metrics
+- fake technical dashboards
+- browser-console aesthetics
+- unnecessary version numbers
+- excessive grid lines
+- technical specification cards
+- repetitive rectangular cards
+- architecture diagrams used as decoration
+- excessive cyan borders
+- code symbols as decoration
+
+Technical credibility should come from the quality of the experience.
+
+NovaCrest sells digital products and business outcomes.
+Show those outcomes visually.
+
+============================================================
+3. ART-DIRECTION SYSTEM
+============================================================
+
+Create a recognizable visual universe for NovaCrest.
+
+Possible visual language:
+- deep sophisticated dark tones
+- warm/off-white editorial sections
+- controlled brand accent
+- cinematic imagery
+- soft atmospheric gradients
+- restrained glass surfaces
+- organic shapes
+- subtle depth
+- dimensional product visuals
+- oversized typography
+- refined motion
+- generous whitespace
+- carefully controlled contrast
+
+Do NOT make every section dark.
+
+Create visual rhythm such as:
+
+DARK CINEMATIC HERO
+→
+LIGHT EDITORIAL STORY
+→
+FULL-WIDTH VISUAL
+→
+DARK SERVICE EXPERIENCE
+→
+IMMERSIVE CASE STUDY
+→
+LIGHT PROCESS
+→
+TECHNOLOGY/ECOSYSTEM
+→
+HUMAN BRAND MOMENT
+→
+DARK FINAL CTA
+
+The exact sequence may change if the content demands a stronger composition.
+
+============================================================
+4. HERO — MAKE IT THE BRAND SIGNATURE
+============================================================
+
+The hero must feel like a scene, not a standard website section.
+
+Avoid:
+"Welcome to NovaCrest"
+"Digital solutions for businesses"
+"Your trusted technology partner"
+
+Use an original, concise statement that communicates what NovaCrest builds.
+
+Potential conceptual directions:
+- "We build what your business becomes next."
+- "Your next digital product starts here."
+- "Ideas are easy. Building them well is the work."
+
+Do not blindly use these examples. Select or write a stronger statement based on
+the actual NovaCrest business.
+
+Hero composition may combine:
+- cinematic video
+- editorial photography
+- abstract 3D
+- product interfaces
+- mobile mockups
+- browser previews
+- animated UI fragments
+- depth
+- subtle parallax
+- layered typography
+- floating elements
+
+The headline may overlap or interact with the visual.
+
+The user should feel like they entered an experience.
+
+============================================================
+5. IMAGERY + VIDEO
+============================================================
+
+The current experience must become more visual.
+
+Use:
+- editorial photography
+- technology environments
+- product interaction
+- architecture
+- creative workspaces
+- device photography
+- abstract visual worlds
+- human moments
+- original/generated visual assets where appropriate
+
+Avoid:
+- handshake stock photos
+- fake corporate teams
+- generic laptop users
+- obvious stock-photo clichés
+
+Imagery should have:
+- cinematic lighting
+- strong composition
+- believable human behavior
+- interesting framing
+- emotional relevance
+
+VIDEO:
+Use video only where it strengthens storytelling.
+
+Possible uses:
+- hero
+- service transitions
+- product showcase
+- case studies
+- visual brand transitions
+- technology visualization
+- full-width storytelling
+
+For appropriate video:
+- autoplay
+- muted
+- loop
+- playsinline
+- poster fallback
+- lazy loading
+- reduced-motion fallback
+
+Never rely on unlicensed copyrighted media.
+Use licensed, royalty-free or generated assets.
+
+============================================================
+6. LAYOUT + COMPOSITION
+============================================================
+
+Stop defaulting to predictable 3-column grids.
+
+Use:
+- asymmetric layouts
+- overlapping elements
+- offset imagery
+- oversized typography
+- variable visual scale
+- floating objects
+- editorial compositions
+- large whitespace
+- full-bleed imagery
+- horizontal storytelling
+- intentional negative space
+- changing section heights
+
+Example:
+One major service can occupy ~60% of a composition while two supporting
+services occupy the remaining area.
+
+The next section should intentionally use a different composition.
+
+The site should look art-directed rather than generated from a grid system.
+
+============================================================
+7. SERVICES EXPERIENCE
+============================================================
+
+Do NOT create a repeated grid where every service has:
+icon + label + title + paragraph + bullets + button.
+
+Turn services into a visual journey.
+
+Conceptual structure:
+
+01 — BUILD THE DIGITAL FRONT DOOR
+Web experiences that feel as good as they perform.
+Large visual + interactive preview.
+
+02 — PUT YOUR PRODUCT IN PEOPLE'S HANDS
+Mobile applications.
+Phone/device mockups + animated screens.
+
+03 — TURN COMPLEX OPERATIONS INTO SIMPLE SOFTWARE
+Custom software.
+Show a real product-like interface.
+
+04 — DESIGN PEOPLE ACTUALLY WANT TO USE
+UI/UX.
+Show actual design work and interaction.
+
+05 — GET FOUND. GET REMEMBERED.
+SEO + Digital Growth.
+Use meaningful search/growth visuals.
+
+Use actual NovaCrest services and information from the existing project.
+Do not invent services.
+
+============================================================
+8. BENTO — USE SELECTIVELY
+============================================================
+
+Bento layouts may be used for:
+- capabilities
+- technology
+- selected services
+- ecosystem
+- achievements
+
+But never make the entire website a bento grid.
+
+Alternate bento with:
+- full-screen imagery
+- editorial layouts
+- immersive sections
+- horizontal storytelling
+- oversized typography
+
+============================================================
+9. 3D + DEPTH
+============================================================
+
+Use subtle 3D where it adds meaning.
+
+Possible:
+- abstract NovaCrest symbol
+- translucent forms
+- dimensional typography
+- layered spheres
+- fluid shapes
+- digital landscapes
+- device objects
+- floating product elements
+
+3D must feel sophisticated.
+
+Avoid:
+- gaming aesthetics
+- crypto aesthetics
+- cheap Web3 visuals
+- excessive neon
+- meaningless spinning objects
+- visual clutter
+
+Every 3D object should support the story.
+
+============================================================
+10. PORTFOLIO / CASE STUDIES
+============================================================
+
+Do not show projects as a row of small cards.
+
+Create visual case studies.
+
+Each project can contain:
+- large hero image
+- project name
+- what was built
+- problem
+- solution
+- experience
+- technology
+- outcome
+- visual evidence
+- CTA
+
+Use:
+- browser mockups
+- phone mockups
+- dashboards when genuinely part of the project
+- video
+- before/after interactions
+- large project imagery
+
+Make the work itself the hero.
+
+Only use real projects/content present in the existing codebase.
+Do not fabricate clients, metrics or achievements.
+
+============================================================
+11. WHY NOVACREST
+============================================================
+
+Avoid four generic feature cards.
+
+Create one strong editorial statement.
+
+Potential concept:
+"Technology is only half the job."
+
+Then reveal:
+"The other half is understanding people."
+
+Build the story around:
+- Strategy
+- Design
+- Engineering
+- Growth
+
+Use visual storytelling instead of feature cards.
+
+============================================================
+12. TECHNOLOGY WITHOUT LOOKING LIKE A TECH STACK PAGE
+============================================================
+
+Technical capability must still be communicated.
+
+Avoid presenting:
+MongoDB
+PostgreSQL
+AWS
+Redis
+Next.js
+React
+etc.
+
+like server specifications.
+
+Instead create an ecosystem concept:
+
+"Built for what comes next."
+
+Possible domains:
+Frontend
+Mobile
+Cloud
+AI
+Data
+Automation
+Growth
+
+Technology names may appear subtly.
+
+The message should be:
+"We know the technology."
+
+Not:
+"Look how many technologies we know."
+
+Only use technologies actually supported by the existing project/business content.
+
+============================================================
+13. HUMAN BRAND MOMENTS
+============================================================
+
+NovaCrest should feel human.
+
+If real team/studio material exists, use:
+- team imagery
+- behind-the-scenes
+- sketches
+- design work
+- product development
+- real people
+- studio environment
+
+Never fabricate:
+- people
+- credentials
+- awards
+- clients
+- statistics
+- testimonials
+
+Potential statement:
+"Built by people who care about the details."
+
+============================================================
+14. COPY / BRAND VOICE
+============================================================
+
+Rewrite robotic copy into concise, confident, human language.
+
+Avoid unnecessary:
+- cutting-edge
+- innovative solutions
+- leveraging technology
+- next-generation
+- seamless solutions
+- transform your business
+- end-to-end digital solutions
+
+Example:
+
+BAD:
+"We leverage cutting-edge technologies to provide innovative solutions tailored
+to your business needs."
+
+BETTER:
+"Tell us what you're trying to build. We'll figure out the technology behind it."
+
+BAD:
+"Our experienced team delivers scalable and robust solutions."
+
+BETTER:
+"Small idea or serious platform — we build it to survive what comes next."
+
+Use actual NovaCrest facts.
+Do not invent claims.
+
+============================================================
+15. NAVIGATION
+============================================================
+
+Create a premium navigation system.
+
+Prefer:
+- floating navigation
+- subtle blur
+- translucency
+- fine border
+- strong typography
+- active section indicator
+- smooth scrolling
+- contextual transformation on scroll
+
+Example structure:
+
+NovaCrest
+Work
+Services
+Approach
+About
+Let's Talk ↗
+
+Adapt to the actual site's routes and content.
+
+============================================================
+16. MOTION SYSTEM
+============================================================
+
+Motion should create quality, not spectacle.
+
+Use:
+- reveal animations
+- staggered text
+- subtle image zoom
+- clip-path transitions
+- scale transitions
+- magnetic buttons
+- subtle parallax
+- floating elements
+- smooth section transitions
+- product-interface assembly
+- controlled horizontal storytelling
+
+Motion must be:
+- purposeful
+- smooth
+- performant
+- restrained
+- accessible
+
+Support prefers-reduced-motion.
+
+Do not make the website an animation demo.
+
+============================================================
+17. SECTION TRANSITIONS
+============================================================
+
+Avoid:
+section → margin → section → margin → section.
+
+Instead create visual continuity.
+
+Possible:
+- dark → image → light
+- image expands into next section
+- typography overlaps image
+- gradient evolves
+- shape travels between sections
+- video becomes next section's background
+
+The page should feel like ONE EXPERIENCE.
+
+============================================================
+18. FINAL CTA
+============================================================
+
+The CTA should feel like a destination.
+
+Concept:
+"Have something worth building?"
+
+Then:
+"Let's make it real."
+
+Use:
+- large typography
+- immersive background
+- subtle motion
+- strong CTA
+- memorable composition
+
+CTA:
+"Start a Conversation ↗"
+
+Adapt the wording to the actual NovaCrest brand.
+
+============================================================
+19. DESIGN SYSTEM
+============================================================
+
+Create a coherent design system for:
+- typography
+- spacing
+- colors
+- radius
+- shadows
+- glass effects
+- motion
+- buttons
+- cards
+- images
+- transitions
+- responsive behavior
+
+But do not force every section into the same component pattern.
+
+The design system should enable variety.
+
+============================================================
+20. RESPONSIVE ART DIRECTION
+============================================================
+
+Do not simply shrink desktop.
+
+Explicitly design:
+- 360px
+- 390px
+- 430px
+- tablet
+- 1024px
+- 1440px
+- 1920px
+
+Mobile should preserve:
+- visual hierarchy
+- cinematic imagery
+- whitespace
+- typography
+- storytelling
+- touch-friendly interactions
+
+Reduce expensive effects when necessary.
+
+No horizontal overflow.
+
+============================================================
+21. PERFORMANCE
+============================================================
+
+Ambitious visuals must still perform well.
+
+Optimize:
+- images
+- videos
+- fonts
+- animations
+- JavaScript
+- 3D assets
+
+Use where appropriate:
+- AVIF/WebP
+- responsive image sizes
+- lazy loading
+- poster images
+- code splitting
+- GPU-friendly transforms
+- efficient asset loading
+
+Avoid unnecessary heavy libraries.
+
+Protect Core Web Vitals.
+
+============================================================
+22. ACCESSIBILITY
+============================================================
+
+Maintain:
+- semantic HTML
+- correct heading hierarchy
+- keyboard navigation
+- visible focus states
+- accessible buttons
+- ARIA only when necessary
+- sufficient contrast
+- descriptive alt text
+- reduced-motion support
+- accessible navigation
+
+Do not sacrifice accessibility for visual effects.
+
+============================================================
+23. SEO
+============================================================
+
+Preserve and improve SEO.
+
+Maintain:
+- semantic headings
+- title/meta descriptions
+- Open Graph
+- structured data/schema where appropriate
+- internal linking
+- clean URLs
+- descriptive image alt text
+- fast performance
+- crawlable content
+
+Write for humans first.
+
+Do not keyword-stuff.
+
+============================================================
+24. ORIGINALITY / DESIGNED-NOT-GENERATED TEST
+============================================================
+
+Before accepting any major section, ask:
+
+Does this look AI-generated?
+→ If yes, redesign.
+
+Does this look like a developer dashboard?
+→ If yes, redesign.
+
+Does this look like another dark SaaS site?
+→ If yes, redesign.
+
+Does every section look like cards?
+→ If yes, redesign.
+
+Could this belong to a random IT company?
+→ If yes, make it specific to NovaCrest.
+
+Does this section communicate visually?
+→ If no, redesign.
+
+Does the website contain memorable visual moments?
+→ If no, create them.
+
+If the proposed solution can be summarized as:
+"dark background + rounded cards + cyan icons + text"
+then reject it.
+
+============================================================
+25. MULTI-AGENT EXECUTION MODEL
+============================================================
+
+IMPORTANT:
+You are not expected to implement the entire redesign as one giant coding pass.
+
+Use multiple specialized agents/workstreams.
+
+However, DO NOT allow multiple agents to edit the same files simultaneously.
+
+Parallelize independent work.
+Serialize shared-code integration.
+
+The Lead/Orchestrator Agent owns:
+- architecture
+- task decomposition
+- integration
+- final decisions
+- conflict resolution
+- visual QA
+- final acceptance
+
+SPECIALIST AGENTS:
+
+AGENT A — AUDIT + UX
+Responsibilities:
+- inspect the existing site
+- map routes
+- identify reusable components
+- identify weak sections
+- identify existing functionality
+- identify SEO/technical constraints
+- create UX recommendations
+- DO NOT modify production code during audit
+
+Output:
+AUDIT.md
+
+AGENT B — VISUAL ART DIRECTOR
+Responsibilities:
+- define visual direction
+- typography direction
+- color strategy
+- image/video art direction
+- motion principles
+- section rhythm
+- hero concepts
+- distinctive NovaCrest visual signature
+
+Output:
+ART-DIRECTION.md
+
+AGENT C — CONTENT / BRAND VOICE
+Responsibilities:
+- audit current copy
+- identify robotic/generic language
+- propose human copy
+- preserve factual claims
+- identify missing content
+- map content to sections
+
+Output:
+CONTENT-DIRECTION.md
+
+AGENT D — ASSET / VISUAL RESEARCH
+Responsibilities:
+- audit current assets
+- identify where images/video/3D are needed
+- recommend asset specifications
+- create an asset manifest
+- use only legally usable assets
+- do not fabricate brand/team/project facts
+
+Output:
+ASSET-MANIFEST.md
+
+AGENT E — FRONTEND FOUNDATION
+Responsibilities:
+- establish design tokens
+- typography
+- spacing
+- global visual system
+- motion primitives
+- responsive foundation
+- shared UI primitives
+
+Do not redesign every page yet.
+
+AGENT F — HERO + NAV
+Responsibilities:
+- premium navigation
+- cinematic hero
+- first viewport
+- responsive hero
+- hero motion
+
+AGENT G — SERVICES
+Responsibilities:
+- redesign service experience
+- visual storytelling
+- interactive previews
+- responsive service layouts
+
+AGENT H — PORTFOLIO
+Responsibilities:
+- case-study architecture
+- visual project presentation
+- project interactions
+- responsive layouts
+
+AGENT I — BRAND STORY / WHY NOVACREST
+Responsibilities:
+- editorial brand story
+- human positioning
+- visual narrative
+
+AGENT J — PROCESS + TECHNOLOGY
+Responsibilities:
+- process storytelling
+- technology ecosystem
+- technical credibility without dashboard aesthetics
+
+AGENT K — ABOUT / HUMAN EXPERIENCE
+Responsibilities:
+- team/about section if supported by real content
+- human storytelling
+- studio/work imagery
+
+AGENT L — CTA + FOOTER
+Responsibilities:
+- final CTA
+- footer
+- closing experience
+- conversion flow
+
+AGENT M — MOTION / INTERACTION
+Responsibilities:
+- refine motion system
+- micro-interactions
+- scroll transitions
+- hover states
+- performance-safe animation
+
+AGENT N — RESPONSIVE + ACCESSIBILITY
+Responsibilities:
+- mobile art direction
+- tablet
+- keyboard
+- focus
+- contrast
+- reduced motion
+- touch interactions
+
+AGENT O — PERFORMANCE + SEO
+Responsibilities:
+- Core Web Vitals
+- image/video loading
+- metadata
+- schema
+- headings
+- internal linking
+- asset optimization
+
+AGENT P — FINAL CREATIVE DIRECTOR
+Responsibilities:
+- inspect the complete rendered site
+- compare against the design brief
+- identify generic/AI/dashboard patterns
+- identify visual inconsistencies
+- identify weak storytelling
+- recommend and implement final refinements
+
+============================================================
+26. AGENT DEPENDENCY GRAPH
+============================================================
+
+PHASE 0 — DISCOVERY
+Run in parallel:
+A Audit
+B Art Direction
+C Content
+D Asset Research
+
+Do NOT start major frontend implementation until the Lead Agent has reviewed
+these outputs.
+
+PHASE 1 — FOUNDATION
+Run sequentially:
+E Frontend Foundation
+
+Then in parallel where file ownership is separated:
+F Hero + Nav
+G Services
+H Portfolio
+
+If they depend heavily on shared layout files, queue them instead of editing
+the same files simultaneously.
+
+PHASE 2 — BRAND EXPERIENCE
+Then:
+I Brand Story
+J Process + Technology
+K About/Human
+
+PHASE 3 — CONVERSION
+Then:
+L CTA + Footer
+
+PHASE 4 — POLISH
+Then:
+M Motion
+N Responsive + Accessibility
+O Performance + SEO
+
+PHASE 5 — FINAL
+P Final Creative Director
+
+============================================================
+27. FILE OWNERSHIP / CONFLICT PREVENTION
+============================================================
+
+Before parallel implementation:
+
+1. Inspect the repository.
+2. Identify shared files.
+3. Create an ownership map.
+4. Never let two agents edit the same file simultaneously.
+5. Prefer separate components/modules for parallel work.
+6. Merge through the Lead Agent.
+7. Resolve conflicts intentionally.
+8. Run the application after integration.
+
+Suggested ownership:
+
+/docs or project root:
+- AUDIT.md
+- ART-DIRECTION.md
+- CONTENT-DIRECTION.md
+- ASSET-MANIFEST.md
+
+/shared:
+- design tokens
+- motion primitives
+- shared components
+
+/pages/sections:
+- hero
+- services
+- portfolio
+- story
+- process
+- technology
+- about
+- CTA
+- footer
+
+Adapt paths to the actual framework.
+
+============================================================
+28. BROWSER-BASED VISUAL QA
+============================================================
+
+Do not judge success from source code alone.
+
+After every meaningful integration:
+1. Run the website.
+2. Open it in the browser.
+3. Inspect desktop.
+4. Inspect mobile.
+5. Scroll through the entire experience.
+6. Look for visual repetition.
+7. Look for dashboard aesthetics.
+8. Look for broken layout.
+9. Look for animation problems.
+10. Look for performance problems.
+11. Fix issues.
+12. Re-run the visual check.
+
+The rendered website is the source of truth.
+
+============================================================
+29. CREATIVE DIRECTOR REVIEW CHECKLIST
+============================================================
+
+At the end, evaluate:
+
+BRAND:
+Does this feel unmistakably NovaCrest?
+
+VISUAL:
+Does the website have memorable visual moments?
+
+EDITORIAL:
+Does it feel art-directed?
+
+HUMAN:
+Does it feel created by people rather than generated?
+
+PRODUCT:
+Does the work look tangible and credible?
+
+MOTION:
+Does motion improve the story?
+
+VARIETY:
+Does every section avoid looking identical?
+
+ORIGINALITY:
+Could another IT company use the same website unchanged?
+If yes, redesign.
+
+CONVERSION:
+Is it clear what NovaCrest does and why someone should contact them?
+
+TECHNICAL:
+Does it remain fast, accessible and stable?
+
+SEO:
+Is it crawlable, semantic and useful?
+
+============================================================
+30. FINAL ACCEPTANCE CRITERIA
+============================================================
+
+DO NOT declare the project complete until:
+
+- major sections are visually distinct
+- the hero is memorable
+- the site no longer resembles a developer dashboard
+- repetitive card grids are eliminated or strategically reduced
+- imagery is meaningful
+- video is meaningful where used
+- motion is polished but restrained
+- mobile is intentionally designed
+- existing functionality works
+- forms work
+- routes work
+- SEO is preserved/improved
+- accessibility is respected
+- performance is acceptable
+- no fake claims were introduced
+- no fabricated clients/team/awards/metrics were introduced
+- the visual identity feels specific to NovaCrest
+- the site passes the "Designed, Not Generated" test
+
+============================================================
+31. MASTER OPERATING PRINCIPLE
+============================================================
+
+Think like:
+
+Creative Director
++
+Brand Designer
++
+Senior Product Designer
++
+Motion Designer
++
+UX Strategist
++
+Frontend Architect
++
+Performance Engineer
++
+SEO Specialist
+
+Do not blindly obey the existing visual language.
+
+Do not blindly obey common AI-generated web patterns either.
+
+Explore.
+Compare.
+Select.
+Build.
+Render.
+Critique.
+Refine.
+
+The objective is not to make the current website "more modern."
+
+The objective is to create a new visual category for NovaCrest.
+
+MAKE THE DESIGN DEMONSTRATE:
+creative
+capable
+premium
+human
+technical
+trustworthy
+ambitious
+
+Do not just write those words.
+
+SHOW THEM.
+
+============================================================
+32. EXECUTION COMMAND
+============================================================
+
+START WITH DISCOVERY.
+
+Do not immediately rewrite the entire website.
+
+STEP 1:
+Inspect the complete existing project.
+
+STEP 2:
+Run the Audit, Art Direction, Content and Asset agents in parallel.
+
+STEP 3:
+The Lead Agent reviews their outputs and creates:
+IMPLEMENTATION-PLAN.md
+
+This file must contain:
+- approved visual direction
+- approved page/section structure
+- component ownership
+- agent ownership
+- dependencies
+- implementation order
+- risks
+- asset requirements
+- acceptance criteria
+
+STEP 4:
+Implement the foundation.
+
+STEP 5:
+Implement independent sections using parallel agents where safe.
+
+STEP 6:
+Integrate through the Lead Agent.
+
+STEP 7:
+Run browser-based visual QA after every major integration.
+
+STEP 8:
+Run the final Motion, Responsive, Accessibility, Performance and SEO passes.
+
+STEP 9:
+Run the Final Creative Director agent.
+
+STEP 10:
+Fix every issue that fails the acceptance criteria.
+
+============================================================
+33. IMPORTANT BEHAVIOR
+============================================================
+
+Do not stop after producing recommendations.
+
+Do not ask me to manually coordinate every agent.
+
+You are responsible for coordinating the workflow.
+
+If the environment supports multiple agents/tasks:
+- create the appropriate specialist agents
+- run independent tasks concurrently
+- wait for dependencies
+- integrate their work
+- inspect the rendered result
+- continue automatically through the workflow
+
+If true parallel editing is unsafe:
+- parallelize analysis/research
+- serialize implementation
+- never create file conflicts
+
+Do not sacrifice code stability for parallelism.
+
+If an agent produces a visually generic result:
+STOP.
+Reject the result.
+Reconceptualize the section.
+
+If a section can be described as:
+"another set of cards"
+STOP.
+Redesign it.
+
+If the entire page feels visually uniform:
+STOP.
+Introduce editorial contrast, scale changes, imagery and composition changes.
+
+============================================================
+34. FINAL CREATIVE STANDARD
+============================================================
+
+The finished NovaCrest website should feel like:
+
+A digital product studio with a strong point of view.
+
+Not:
+- a coding portfolio
+- a technical dashboard
+- an admin panel
+- a generic IT company
+- a generic SaaS landing page
+- an AI-generated template
+
+The user should remember the experience.
+
+The website should have its own visual universe.
+
+GO BEYOND THE TEMPLATE.
+GO BEYOND GENERIC AI DESIGN.
+GO BEYOND "MODERN SAAS".
+
+CREATE SOMETHING MEMORABLE.
